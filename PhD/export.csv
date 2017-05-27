@@ -1,0 +1,31 @@
+Title;Short title;Description;Theme name
+Russian federation - behaviour;RUSB;How Russia behaves on the political scene;Political dimension of functioning of the region
+USA - beahviour;USAB;How USA behaves on the political scene;Political dimension of functioning of the region
+EU(outer participants) - behaviour;EUOB;How the EU members outside of Ostmitteleuropa behave on the political scene;Political dimension of functioning of the region
+Republic of Turkey - behaviour;TURB;How Turkey behaves on the political scene;Political dimension of functioning of the region
+Republic of Turkey - internal affairs;TURI;How the situation within Turkey developes;Political dimension of functioning of the region
+Level of enmity within ECE;EECE;Describes the conflict level associated with the interplay between the internal actors of ECE;Political dimension of functioning of the region
+Military budgets - ECE (Internal actors);MILBECEIA;Prediction of the military budgets of the internal actors in ECE;Political dimension of functioning of the region
+Military budgets - outer actors;MILBOA;Prediction of the military budgets of the outer actors in ECE;Political dimension of functioning of the region
+Level of cooperation - ECE;COOPECE;The level of cooperation between the internal actors in ECE. Important factor for the prospect of common actions in the field of security and defence;Political dimension of functioning of the region
+Level of cooperation - global;COOPGLOB;Level of cooperation between the dominating geopolitical actors;Political dimension of functioning of the region
+Balance between DGA;BALDGA;Current balance between the DGA;Political dimension of functioning of the region
+Instability from the actions of regional powers;INSTREG;The possibility of a regional power to create instability within ECE;Political dimension of functioning of the region
+Migration pressure;MIGPRES;The flow of migrants towards ECE in particular and Europe as a whole;Political dimension of functioning of the region
+Political stability of UK;UKSTAB;How UK will handle with the increasing centrifugal forces within itself, resulting from BREXIT;Political dimension of functioning of the region
+Creation of Kurds state;KURDST;The probability of creation of a Kurdish state entity and the consequences for ECE;Political dimension of functioning of the region
+Security of the energy supplies to ECE;ENERECE;How secure are the energy supplies to ECE. Level of diversification;Political dimension of functioning of the region
+Proliferation of WMD - global;WMDPROFGL;The temps by which the states controlling WMD increases;Political dimension of functioning of the region
+People's Republic of China - behaviour;CHNBEH;How China acts on the political scene and how this can influence ECE;Political dimension of functioning of the region
+Demographics - ECE (internal actors);DEMIAECE;The prospects of the demographic characteristics for the internal actors in ECE;Social dimension of functioning of the region
+Stability of the ecosystem;ECOSTAB;Whether the human behavior can lead to such changes in the ecosystem that can influence the security of ECE;Social dimension of functioning of the region
+Changes in the ethnic balance within ECE - IA;ETHNBALIA;Will the ethnic balance within the internal actors in ECE change? How this will change the security dynamics;Social dimension of functioning of the region
+Stability of the concept of nation in ECE - IA;NATCONCIA;Whether the national narrative can be undermined to such level that the certain state cannot maintain itself;Social dimension of functioning of the region
+Demographics ECE - outer actors;DEMOAECE;Prospects of the demographic characteristics of the outer actors in ECE;Social dimension of functioning of the region
+Demographic tendencies - global;DEMGLOB;What are the global demographic tendencies;Social dimension of functioning of the region
+Economic level ECE - IA;ECONIAECE;What is the economic shape of the internal actors in ECE;Economic dimension of functioning of the region
+Economic level of ECE - OA;ECONOAECE;The economic shape of the outer actors in ECE;Economic dimension of functioning of the region
+Economic tendencies - global;ECONGLOBT;Prospects for the global economy;Economic dimension of functioning of the region
+Quality/quantity of the labor force in ECE - IA;LABFORIA;Prospects for the quality and the quantity of the labor force in the internal actors of ECE;Economic dimension of functioning of the region
+Effectivness/efficiency of the educational systems in ECE - IA;EDUECEIA;Whether the educational systems in ECE will provide the basis for economic development of the region;Economic dimension of functioning of the region
+Operational efficiency in ECE - IA;OPEFFIAECE;The ratio between input energy and material and output of goods of the internal actors in ECE;Economic dimension of functioning of the region
